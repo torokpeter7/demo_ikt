@@ -4,3 +4,4 @@ ikt github gyakorlás
 # most trollkodok egy kicsit hehe
 # ez vann
 # ez vannnn
+# hafjéydjksg
