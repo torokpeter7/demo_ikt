@@ -2,5 +2,4 @@
 ikt github gyakorlás
 # github-ról írtam
 # most trollkodok egy kicsit hehe
-# hello
-hello
+# ez van
